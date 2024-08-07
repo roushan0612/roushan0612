@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Roushan kumar
-- 👀 I’m interested in Full stack development
+###      ** I am Roushan kumar  **
 
 
 <!---
